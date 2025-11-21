@@ -26,7 +26,7 @@ Cases come from X.com, RedNote and other social media. Copyrights credits to ori
 ## 🖼️ Prompt Gallery
 
 - [✨ Cases list](#️-cases)
-  - [Case 0: Turn item into cyberpunk style with text（by @ZizheRuan)](#case-0-turn-item-into-cyberpunk-style-with-textby-zizheruan)
+  - [Case 0: Turn item into cyberpunk style with text（by @ZizheRuan）](#case-0-turn-item-into-cyberpunk-style-with-textby-zizheruan)
   - [Case 1: Solve math problem on whiteboard（by @mark_k）](#case-1-solve-math-problem-on-whiteboardby-mark_k)
   - [Case 2: Assemble message from torn and mixed-up pieces（by @ai_for_success）](#case-2-assemble-message-from-torn-and-mixed-up-piecesby-ai_for_success)
 
