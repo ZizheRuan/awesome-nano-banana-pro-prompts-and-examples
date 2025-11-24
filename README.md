@@ -2,11 +2,14 @@
 
 ⭐ Please Star or Watch this project for future updates!
 
-last updated: Nov 23rd 2025.
+last updated: Nov 24th 2025. 
 
 ## 🔍 Introduction
 awesome-nano-banana-pro-images is a curated, community-driven collection of high-quality prompts and stunning outputs generated with the **Nano Banana Pro (Google Gemini 3 Pro Image Preview)** model.  
 This repository aims to help creators, researchers, and prompt engineers better understand how to craft effective prompts for the model during its pre-release phase.
+
+## 💡 Where can I try Nano Banana Pro?
+It is recommended to start for free on [Copictor.com](https://copictor.com/) with a collection of artist-crafted built-in prompts, it is also maintained by me.
 
 ## 📌 What This Repository Contains
 - Community-shared prompts that produce high-quality or interesting results  
@@ -35,10 +38,14 @@ Cases come from X.com, RedNote and other social media. Copyrights credits to ori
   - [Case 4: Anime style to Live-action image（by @wanerfu）](#case-4-anime-style-to-live-action-imageby-wanerfu)
   - [Case 5: Live-action image to Anime style（by @TWnese）](#case-5-live-action-image-to-anime-styleby-twnese)
   - [Case 6: Watercolor-ink style series comic（by @ZizheRuan）](#case-6-watercolor-ink-style-series-comicby-zizheruan)
-  - [Case 7: Futuristic space station as commercial website advertisement（by @ZizheRuan）](#case-7-futuristic-space-station-as-commercial-website-advertisementby-zizheruan)
+  - [Case 7: Futuristic commercial website advertisement with text（by @ZizheRuan）](#case-7-futuristic-commercial-website-advertisement-with-textby-zizheruan)
   - [Case 8: Create picture by location and time（by @minchoi）](#case-8-create-picture-by-location-and-timeby-minchoi)
   - [Case 9: Recursive photograph with time stamp（by @goodside）](#case-9-recursive-photograph-with-time-stampby-goodside)
-  - [Case 10: Traditional color ink painting with modern cartton characters（by @dotey）](#case-10-traditional-color-ink-painting-with-modern-cartton-charactersby-dotey)
+  - [Case 10: Traditional color ink painting with modern cartoon characters（by @dotey）](#case-10-traditional-color-ink-painting-with-modern-cartoon-charactersby-dotey)
+  - [Case 11: Hand drawn schematic diagram from photo（by @alisa_fortin）](#case-11-hand-drawn-schematic-diagram-from-photoby-alisa_fortin)
+  - [Case 12: Photo style picture from hand drawn schematic diagram（by @citychittagong1）](#case-12-photo-style-picture-from-hand-drawn-schematic-diagramby-citychittagong1)
+  - [Case 13: Hand drawn schematic diagram from text（by @alloysiusattah）](#case-13-hand-drawn-schematic-diagram-from-textby-alloysiusattah)
+  - [Case 14: hand-drawn white outlines to depict figure pose（by @ZeroZ_JQ）](#case-14-hand-drawn-white-outlines-to-depict-figure-poseby-zeroz_jq)
 
 ## ✨ Cases
 
@@ -198,4 +205,63 @@ A traditional Chinese ink and color painting in Gongbi style on aged rice paper 
 Three Minions dressed in ancient Chinese servant robes and hats attend to her: one on the left looks stressed holding the hairdryer's power cord, one center kneels polishing her red shoe with a cloth, and one on the right holds up a smartphone taking a photo for her. The background features classical gnarled pine trees, bamboo groves, and Taihu rocks. 
 
 Traditional Chinese calligraphy written in the top right corner, accompanied by a red artist chop seal (寶玉). The color palette is muted mineral pigments. Humorous, anachronistic fusion. --ar 16:9
+```
+
+
+### Case 11: [Hand drawn schematic diagram from photo](https://x.com/alisa_fortin/status/1992477157336195411)（by [@alisa_fortin](https://x.com/alisa_fortin)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/11_i.jpg" width="300" alt="Input Image"> | <img src="images/11_o.jpg" width="300" alt="Output Result"> |
+
+**input:** a reference image
+
+**prompt:**
+```
+ Create a hand drawn isometric schematic diagram of this street.
+```
+
+
+
+### Case 12: [Photo style picture from hand drawn schematic diagram](https://x.com/citychittagong1/status/1992543203493638491)（by [@citychittagong1](https://x.com/citychittagong1)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/12_i.jpg" width="300" alt="Input Image"> | <img src="images/12_o.jpg" width="300" alt="Output Result"> |
+
+**input:** a reference image
+
+**prompt:**
+```
+ Create a photo from this hand drawn isometric schematic diagram.
+```
+
+### Case 13: [Hand drawn schematic diagram from text](https://x.com/alloysiusattah/status/1992726497363444113)（by [@alloysiusattah](https://x.com/alloysiusattah)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/13_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+ Create a hand drawn isometric schematic diagram of the Cape Coast Castle, Ghana.
+```
+
+
+### Case 14: [Hand-drawn white outlines to depict figure pose](https://x.com/ZeroZ_JQ/status/1992731775240696232)（by [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/14_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Generate a close-up shot of a long-haired woman on a moonlit beach at night, using hand-drawn white outlines to depict the figure's pose. Do not show facial features, include only one person, avoid outlining other objects with frames, and exclude any text. This description is intended for guiding the model's posing.
+```
+```
+生成一张夜晚月亮下的沙滩长发女性的中及教景特写照片，通过手绘白色线条轮廓展示人物动作， 不要出现人脸，只需要一个人，其他物品不允许使用线框，不要有文字，需要用来指导模特做动作使用。
 ```
