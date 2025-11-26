@@ -2,7 +2,7 @@
 
 ⭐ Please Star or Watch this project for future updates!
 
-last updated: Nov 26th 2025. 
+last updated: Nov 27th 2025. 
 
 ## 💡 Where can I try Nano Banana Pro?
 It is recommended to start for free on [Copictor.com](https://copictor.com/) with a collection of artist-crafted built-in prompts.
@@ -29,7 +29,7 @@ This project serves as a practical reference for anyone experimenting with the N
 ## 🖼️ Prompt Gallery
 
 - [✨ Cases list](#️-cases)
-  - [Case 1: Turn item into cyberpunk style with text（by @ZizheRuan）](#case-1-turn-item-into-cyberpunk-style-with-textby-zizheruan)
+  - [Case 1: Turn movie into a series of Polaroid photos pinned to a cork board（by @umesh_ai）](#case-1-turn-movie-into-a-series-of-polaroid-photos-pinned-to-a-cork-boardby-umesh_ai)
   - [Case 2: Solve math problem on whiteboard（by @mark_k）](#case-2-solve-math-problem-on-whiteboardby-mark_k)
   - [Case 3: Assemble message from torn and mixed-up pieces（by @ai_for_success）](#case-3-assemble-message-from-torn-and-mixed-up-piecesby-ai_for_success)
   - [Case 4: Anime style to Live-action image（by @wanerfu）](#case-4-anime-style-to-live-action-imageby-wanerfu)
@@ -53,25 +53,28 @@ This project serves as a practical reference for anyone experimenting with the N
   - [Case 23: 8-bit style map（by @Mr_AllenT）](#case-23-8-bit-style-mapby-mr_allent)
   - [Case 24: rate your face symmetry（by @Samann_ai）](#case-24-rate-your-face-symmetryby-samann_ai)
   - [Case 25: Age checker（by @Samann_ai）](#case-25-age-checkerby-samann_ai)
+  - [Case 26: Draw language learning scenario picture（by @crystalsssup）](#case-26-draw-language-learning-scenario-pictureby-crystalsssup)
+  - [Case 27: Create a realistic photo of a cartoon character（by @gizakdag）](#case-27-create-a-realistic-photo-of-a-cartoon-characterby-gizakdag)
+  - [Case 28: Restore sketches from logo（by @riomadeit）](#case-28-restore-sketches-from-logoby-riomadeit)
+  - [Case 29: Solve math question on notebook（by @immasiddx）](#case-29-solve-math-question-on-notebookby-immasiddx)
+  - [Case 30: Recreate Britney at VMAs（by @shoolian）](#case-30-recreate-britney-at-vmasby-shoolian)
+  - [Case 31: Turn item into cyberpunk style with text（by @ZizheRuan）](#case-31-turn-item-into-cyberpunk-style-with-textby-zizheruan)
 
 ## ✨ Cases
 
-### Case 1: [Turn item into cyberpunk style with text](https://copictor.com/model/nanobananapro)（by [@ZizheRuan](https://x.com/ZizheRuan)）
+### Case 1: [Turn movie into a series of Polaroid photos pinned to a cork board](https://x.com/umesh_ai/status/1993247403995283687)（by [@umesh_ai](https://x.com/umesh_ai)）
 
 | Input | Output |
 |:---:|:---:|
-| <img src="images/1_i.jpg" width="300" alt="Input Image"> | <img src="images/1_o.jpg" width="300" alt="Output Result"> |
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/1_o.jpg" width="300" alt="Output Result"> |
 
 
-**input:** a reference image
+**input:** text prompt only
 
 **prompt:**
 
 ```
-A highly imaginative, ultra-cool, eye-catching cyberpunk-inspired banana artwork in vivid, neon-saturated colors. A single banana occupies most of the frame, rendered in a surreal, futuristic, abstract style that clearly does not resemble the real world. 1:1 aspect ratio. Add three lines of English text: ‘Nano’, ‘Banana’, ‘Pro’. The text should not block the banana too much, but may slightly overlap if needed. Extremely stylish, futuristic, and visually striking.
-```
-```
-以香蕉为主题，生成一张最炫酷吸睛，色彩鲜艳的香蕉主题图片，可以是抽象的赛博朋克主题，场景要非常炫酷，一看就不是真实世界，而是高度想象力的，横纵比例1:1，香蕉要占据主要面积，图上加三行英文文字，分别是"Nano""Banana""Pro"，尽量不要挡住香蕉，但也可以盖在一小部分香蕉上面，不要出现中文
+Create an image about "[FILM_OR_NOVEL]" retold through a series of Polaroid photos pinned to a cork board. Each photo captures a key moment, with simple captions below. Arrange the photos in a loosely chronological path across the board, using colored strings to connect events and characters. Light the scene warmly to evoke nostalgia. Include incidental details, coffee cup rings, paper clips, handwritten notes, for authenticity.
 ```
 
 <!-- Case 2: Solve math problem on whiteboard (by @mark_k) -->
@@ -450,6 +453,96 @@ Design style:
 **prompt:**
 ```
 A hyper-realistic, high-resolution portrait infographic based on (your photo). Keep the same person, identity, hairstyle, clothing and natural skin tone from (your photo), with a neutral studio background.Overlay a subtle, semi-transparent facial analysis grid on the entire face, very similar to a 3D face-scanning mesh: thin, soft white lines following the facial contours, slightly glowing but not hiding the skin details. Add one clean vertical red laser line running down one side of the face, like a futuristic scan. All analysis lines must be soft, minimal and elegant, exactly like a cosmetic-tech advertisement.Create a clean medical–aesthetic infographic that evaluates 5 aging factors using global data percentages:1. Fine lines and wrinkles2. Skin texture and elasticity3. Facial volume and sagging4. Eye area aging signs5. Skin tone and pigmentationFor each factor, place a small label with a thin line pointing to the relevant facial area, and next to it write a short title and a realistic percentage score from 0–100% (based on global data), for example:“Fine lines & wrinkles – 18%”“Skin texture & elasticity – 72%”“Facial volume & sagging – 35%”“Eye area aging signs – 41%”“Skin tone & pigmentation – 63%”Use clean, modern, sans-serif typography and small technical-style text, like a scientific facial analysis UI. At the bottom of the image, in the center, write a large bold text showing the final estimated real age based on the analysis, for example:“ESTIMATED AGE: (random number based on face analysis ) ”Overall style: futuristic AI-guided skincare analysis, minimalistic, premium editorial lighting, no gender mentioned, suitable for any human face.
+```
+
+
+
+### Case 26: [Draw language learning scenario picture](https://x.com/crystalsssup/status/1993225494410805623)（by [@crystalsssup](https://x.com/crystalsssup)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/26_o.jpg" width="300" alt="Output Result"> |
+
+**input:** text prompt only
+
+**prompt:**
+```
+Draw a detailed {{pet shop}} scene and label every object with English words.
+
+Label format: 
+- First line: English word 
+- Second line: IPA pronunciation 
+- Third line: {Chinese} translation
+```
+
+
+### Case 27: [Create a realistic photo of a cartoon character](https://x.com/gizakdag/status/1993230357328441376)（by [@gizakdag](https://x.com/gizakdag)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/27_i.jpg" width="300" alt="Input Image"> | <img src="images/27_o.jpg" width="300" alt="Output Result"> |
+
+**prompt:**
+```
+Create a realistic photo of this character
+```
+
+
+### Case 28: [Restore sketches from logo](https://x.com/riomadeit/status/1993397495205183509)（by [@riomadeit](https://x.com/riomadeit)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/28_i.jpg" width="300" alt="Input Image"> | <img src="images/28_o.jpg" width="300" alt="Output Result"> |
+
+**prompt:**
+```
+Create 8 different initial sketches leading to this final logo design
+```
+
+
+### Case 29: [Solve math question on notebook](https://x.com/immasiddx/status/1991918223454003346)（by [@immasiddx](https://x.com/immasiddx)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/29_i.jpg" width="300" alt="Input Image"> | <img src="images/29_o.jpg" width="300" alt="Output Result"> |
+
+**prompt:**
+```
+solve it correctly in my actual handwriting
+```
+
+
+### Case 30: [Recreate Britney at VMAs](https://x.com/shoolian/status/1991793665463795817)（by [@shoolian](https://x.com/shoolian)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/30_o.jpg" width="300" alt="Output Result"> |
+
+**prompt:**
+```
+A live television cameraman with MTV broadcast equipment capturing Britney Spears’ shocking performance with a live albino Burmese python draped around her shoulders, Radio City Music Hall VMAs stage with elaborate jungle-themed set design, professional awards show production documenting pop culture controversy, iconic MTV moment being broadcast live to millions, realistic 2001 awards show environment with authentic VMAs staging and dramatic stage lighting, shot on broadcast television cameras with multiple angles capturing audience shock, crew documenting the performance that became one of the most memorable VMAs moments ever and cemented Britney’s transition from teen pop to adult artist.
+```
+
+
+
+
+
+### Case 31: [Turn item into cyberpunk style with text](https://copictor.com/model/nanobananapro)（by [@ZizheRuan](https://x.com/ZizheRuan)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/31_i.jpg" width="300" alt="Input Image"> | <img src="images/31_o.jpg" width="300" alt="Output Result"> |
+
+
+**input:** a reference image
+
+**prompt:**
+
+```
+A highly imaginative, ultra-cool, eye-catching cyberpunk-inspired banana artwork in vivid, neon-saturated colors. A single banana occupies most of the frame, rendered in a surreal, futuristic, abstract style that clearly does not resemble the real world. 1:1 aspect ratio. Add three lines of English text: ‘Nano’, ‘Banana’, ‘Pro’. The text should not block the banana too much, but may slightly overlap if needed. Extremely stylish, futuristic, and visually striking.
+```
+```
+以香蕉为主题，生成一张最炫酷吸睛，色彩鲜艳的香蕉主题图片，可以是抽象的赛博朋克主题，场景要非常炫酷，一看就不是真实世界，而是高度想象力的，横纵比例1:1，香蕉要占据主要面积，图上加三行英文文字，分别是"Nano""Banana""Pro"，尽量不要挡住香蕉，但也可以盖在一小部分香蕉上面，不要出现中文
 ```
 
 
