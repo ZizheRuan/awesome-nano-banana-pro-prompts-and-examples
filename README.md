@@ -546,6 +546,18 @@ A highly imaginative, ultra-cool, eye-catching cyberpunk-inspired banana artwork
 ```
 
 
+### Case 32: [Mock Canva on laptop screen](https://x.com/Parul_Gautam7/status/1992965275160019102)（by [@Parul_Gautam7](https://x.com/Parul_Gautam7)）
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/base_text_input_1.jpg" width="300" alt="Input Image"> | <img src="images/32_o.jpg" width="300" alt="Output Result"> |
+
+**prompt:**
+```
+presentation on Canva "AI lessons for dummies"
+```
+
+
 ## 🙏 Acknowledge
 All images and prompts included here are collected from **publicly shared sources** or generated through legitimate Apps/APIs**.  
 This repository does **not** host internal, leaked, or proprietary data.
